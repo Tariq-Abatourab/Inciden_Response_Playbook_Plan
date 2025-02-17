@@ -1,6 +1,6 @@
 # 🚨 Incident Response Playbook
 
-A **beginner-friendly guide** to handling ransomware attacks! 🛡️🔍  
+A **beginner-friendly guide** to deal with various cyber attacks! 🛡️🔍  
 Perfect for cybersecurity newbies learning incident response.  
 
 ---
