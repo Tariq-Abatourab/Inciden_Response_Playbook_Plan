@@ -1,17 +1,13 @@
-# 🚨 Incident Response Playbook
+# 🚨 Incident Response Playbooks
 
-A **beginner-friendly guide** to deal with various cyber attacks! 🛡️🔍  
-Perfect for cybersecurity newbies learning incident response.  
+A collection of **detailed guides** to handle cyberattacks! 🛡️🔍  
 
----
-
-## 📂 Files
-- `playbook.md`: Step-by-step guide with emojis! 🎉
-
-## 🛠️ How to Use
-1. Download the playbook.
-2. Follow the steps to prepare, detect, and recover from attacks.
+## 📂 Playbooks
+- [Ransomware](ransomware-playbook.md) 🔐
+- [Phishing](phishing-playbook.md) 📧
+- [DDoS](ddos-playbook.md) 🌐
+- [Malware](malware-playbook.md) 🦠
 
 ## 💡 Contributing
-Found a typo? Want to improve it?  
+Found a typo? Want to add a new attack scenario?  
 👉 Open a **pull request** or **create an issue**! 🙌
