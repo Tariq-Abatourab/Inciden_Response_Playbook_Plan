@@ -1,15 +1,15 @@
 # Incident Response Playbook Plan
 This playbook will cover the following phases of incident response:
 
-### Preparation: Steps to prepare for potential incidents.
+- Preparation: Steps to prepare for potential incidents.
 
-### Detection and Analysis: How to detect and analyze the incident.
+- Detection and Analysis: How to detect and analyze the incident.
 
-### Containment: Steps to contain the incident and prevent further damage.
+- Containment: Steps to contain the incident and prevent further damage.
 
-### Eradication: How to eliminate the root cause of the incident.
+- Eradication: How to eliminate the root cause of the incident.
 
-### Recovery: Steps to restore normal operations.
+- Recovery: Steps to restore normal operations.
 
 ### Post-Incident Activity: Lessons learned and improvements.
 
